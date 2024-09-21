@@ -1,3 +1,5 @@
+// from the odin project
+
 const readlineSync = require('readline-sync');
 
 function getComputerChoice() {
